@@ -11,11 +11,11 @@ Note: Internet Connection is Neccessary to access Js Links
 
 
 Contributors: 
-1) Saurabh : WebUI - (Documentation , IndexPage)
+1) Saurabh : WebUI - (Documentation , IndexPage),JQuery
 2) Nihit   : WebUI - (Responsiveness of Page , CSS)
 3) Swinal  : WebUI
-4) Utkarsh : BackboneJS,UnderScoreJS
+4) Utkarsh : BackboneJS,UnderScoreJS,Designing of Front Page
 5) Swapnil : JQuery
-6) Ayush   : MongoDB 
-7) Paarth  : Express
+6) Ayush   : MongoDB ,Express
+7) Paarth  : MongoDB ,Express
 
